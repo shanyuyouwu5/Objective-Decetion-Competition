@@ -1,0 +1,8 @@
+torch>=2.0.1
+torchvision
+torchaudio
+ultralytics>=8.0.0
+albumentations
+numpy>=1.24.3
+opencv-python>=4.8.1.78
+pandas>=2.0.3
